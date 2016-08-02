@@ -5,7 +5,8 @@
 
 //Necessário usar OAuth para acessar a API do Instagram. Gerei um access token
 //mas ainda estou venrificando como utilizar a autenticação da forma como foi
-//pedido na questão
+//pedido na questão. Pelo que entendi, o token é necessário para redirecionar o 
+//user após conceder acesso ao app. 
 //Obs.: Onde eu estava não podia acessar a documentação do Instagram (restrições da 
 //rede) e não tive muito tempo hábil para realizar a questão.
 
