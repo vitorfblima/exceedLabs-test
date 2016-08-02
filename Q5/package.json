@@ -1,0 +1,8 @@
+{
+  "version": "0.0.0",
+  "main": "Q5.js",
+  "author": "Vitor",
+  "dependencies": {
+    "request": "^2.65.0"
+  }
+}
